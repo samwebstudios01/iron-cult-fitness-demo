@@ -1,0 +1,6 @@
+{
+  "name": "IRON CULT FITNESS — Premium Gym Website Demo",
+  "description": "High-converting, cinematic fitness center and gym website demo for IRON CULT FITNESS in Vaishali Nagar, Jaipur. Features multilingual support (English, Hindi, Hinglish), interactive membership pricing toggle, trial booking flow, gallery lightbox, and program profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

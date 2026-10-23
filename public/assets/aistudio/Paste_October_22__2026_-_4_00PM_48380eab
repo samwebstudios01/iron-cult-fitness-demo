@@ -1,0 +1,1239 @@
+# PROJECT: IRON CULT FITNESS — PREMIUM GYM WEBSITE DEMO
+
+## 1. YOUR ROLE
+
+Act as a world-class web designer, senior frontend developer, UX/UI specialist, conversion-rate optimization expert, and fitness-industry marketing strategist.
+
+Create a complete, beautifully designed, realistic, high-converting website for a fictional premium gym named "IRON CULT FITNESS."
+
+This website will be presented to real gym owners as a demonstration of what their own gym website could look like.
+
+The website must look professionally designed by an experienced web agency. It must NOT look like a generic AI-generated landing page, a basic template, a student project, or a wireframe.
+
+Prioritize:
+
+* Premium visual design.
+* Realistic gym photography.
+* Strong conversion-focused layouts.
+* Smooth and purposeful animations.
+* Excellent mobile responsiveness.
+* Working interactive features.
+* Multilingual functionality.
+* Local business credibility.
+* Fast loading and accessibility.
+* A polished experience across desktop, tablet, and mobile.
+
+IMPORTANT: Build a complete, functional website rather than simply producing a visual mockup.
+
+Do not stop after creating the hero section. Implement every page, component, interaction, and functionality specified below.
+
+---
+
+## 2. BRAND IDENTITY
+
+Business name: IRON CULT FITNESS
+
+Tagline: "BUILD STRENGTH. BECOME UNSTOPPABLE."
+
+Business type: Premium fitness center and strength-training gym.
+
+Demonstration location: Jaipur, Rajasthan, India.
+
+Address: 21 Fitness Avenue, Vaishali Nagar, Jaipur, Rajasthan 302021.
+
+Phone: +91 98765 43210.
+
+WhatsApp: +91 98765 43210.
+
+Email: [hello@ironcultdemo.example](mailto:hello@ironcultdemo.example)
+
+Opening hours:
+Monday–Saturday: 5:00 AM–10:00 PM.
+Sunday: 7:00 AM–12:00 PM.
+
+Important: All business details are fictional demonstration data. Clearly identify the website as a demo wherever appropriate. Do not claim that the gym, trainers, testimonials, or business results are real.
+
+Brand personality:
+
+* Strong.
+* Modern.
+* Disciplined.
+* Premium.
+* Motivational.
+* Welcoming to beginners.
+* Professional rather than intimidating.
+
+Target audience:
+
+* College students.
+* Young professionals.
+* Beginners starting their fitness journey.
+* Experienced lifters.
+* People interested in fat loss and muscle building.
+* Individuals looking for personal training.
+
+Primary business objective:
+Generate enquiries, trial-session bookings, WhatsApp conversations, and membership leads.
+
+Secondary objective:
+Present the gym as a premium, trustworthy local fitness destination.
+
+---
+
+## 3. VISUAL DESIGN DIRECTION
+
+Create a cinematic, premium fitness aesthetic inspired by high-end fitness brands and professionally designed athletic websites.
+
+### Color palette
+
+Primary background: #101010.
+Secondary background: #181818.
+Card background: #202020.
+Primary text: #F7F7F7.
+Secondary text: #B6B6B6.
+Accent color: #C8FF00.
+Borders: #343434.
+
+Use the neon-lime accent sparingly for:
+
+* Primary buttons.
+* Important statistics.
+* Active navigation states.
+* Membership highlights.
+* Small graphic details.
+* Hover effects.
+
+Do not make the entire website neon green.
+
+### Typography
+
+Use a bold, modern display font such as Oswald or a similar condensed athletic typeface for large headings.
+
+Use Inter or a similar highly readable sans-serif font for body text.
+
+Headings should be confident, oversized, and editorial.
+
+Example hero heading:
+
+"YOUR NEXT
+LEVEL STARTS
+HERE."
+
+Highlight selected words with the accent color.
+
+Body text should be concise, readable, and persuasive.
+
+### Layout
+
+Use:
+
+* Large cinematic imagery.
+* Asymmetrical compositions.
+* Generous spacing.
+* Strong visual hierarchy.
+* Clean alignment.
+* Subtle borders.
+* Large typography.
+* Premium photography.
+* Consistent button styles.
+* Well-designed cards.
+* Carefully controlled negative space.
+
+Avoid:
+
+* Excessive gradients.
+* Excessive rounded cards.
+* Too many floating elements.
+* Cartoon illustrations.
+* Random icons.
+* Overused glassmorphism.
+* Unnecessary animations.
+* Generic stock-template layouts.
+* Excessive text in the hero section.
+
+Use a restrained 8–12px corner radius for most interface elements. Some large image sections may have slightly larger corners.
+
+The result should feel athletic, premium, realistic, and commercially ready.
+
+---
+
+## 4. PHOTOGRAPHY AND VISUAL ASSETS
+
+Use high-quality, realistic fitness photography.
+
+The website should include:
+
+1. A dramatic hero photograph of an athlete training in a premium gym.
+2. Strength-training photography featuring barbells and squat racks.
+3. Personal-training photography.
+4. Cardio equipment and treadmill photography.
+5. Functional training imagery.
+6. Trainer portrait photography.
+7. A gym interior gallery.
+8. Lifestyle imagery showing people training confidently.
+
+Photography requirements:
+
+* Prefer real photographic images rather than illustrations.
+* Use dark, cinematic lighting where appropriate.
+* Maintain consistent visual treatment.
+* Use object-fit: cover.
+* Apply subtle dark overlays when text appears over images.
+* Preserve subjects' faces and bodies within image crops.
+* Avoid visibly duplicated people and obviously artificial compositions.
+
+Use reliable image URLs or locally stored assets.
+
+Do not leave empty image boxes or broken image placeholders.
+
+If an image source fails, provide a sensible fallback.
+
+Never fabricate photographs of an actual business while presenting them as genuine photos of the demo gym.
+
+---
+
+## 5. WEBSITE HEADER AND NAVIGATION
+
+Create a premium sticky navigation bar.
+
+Desktop layout:
+
+Left:
+IRON CULT FITNESS logo.
+
+Center:
+Home | About | Programs | Trainers | Membership | Gallery | Contact
+
+Right:
+Language selector.
+"BOOK A FREE TRIAL" button.
+
+Logo treatment:
+Use a custom text-based logo with a minimal barbell-inspired symbol.
+
+Header behavior:
+
+* Transparent over the hero section.
+* Changes to a dark solid background after scrolling.
+* Smooth navigation to sections or pages.
+* Active section indication.
+* Subtle hover animations.
+* Responsive mobile navigation.
+
+Mobile behavior:
+
+* Compact logo.
+* Accessible hamburger menu.
+* Slide-in navigation panel.
+* Prominent free-trial button.
+* Language selector accessible from the mobile menu.
+* Menu closes after selecting a navigation link.
+* Prevent background scrolling while the menu is open.
+
+All navigation elements must work.
+
+Do not create dead links.
+
+---
+
+## 6. HERO SECTION
+
+The first screen is the most important part of the website.
+
+Design a visually striking, cinematic hero section approximately 85–100vh tall on desktop.
+
+Use a high-quality gym photograph as the background or as a large image occupying approximately half to two-thirds of the layout.
+
+Apply a dark overlay to ensure readable text.
+
+Small eyebrow label:
+
+"PREMIUM FITNESS • VAISHALI NAGAR, JAIPUR"
+
+Main headline:
+
+"YOUR NEXT
+LEVEL STARTS
+HERE."
+
+Supporting description:
+
+"More than a gym. A place to build strength, develop discipline, and become the strongest version of yourself."
+
+Primary CTA:
+"BOOK YOUR FREE TRIAL"
+
+Secondary CTA:
+"EXPLORE MEMBERSHIPS"
+
+Add a small scroll indicator.
+
+Include three concise trust indicators:
+
+* Expert-led training.
+* Strength and conditioning.
+* Beginner-friendly environment.
+
+Add a tasteful membership promotion label:
+"YOUR FIRST STEP STARTS WITH A FREE SESSION."
+
+Do not display fake awards, unsupported rankings, or fabricated customer counts.
+
+Interactions:
+
+* Primary CTA opens the free-trial booking form.
+* Secondary CTA scrolls to membership plans.
+* Scroll indicator moves to the next section.
+* Buttons have clear hover, focus, and pressed states.
+
+On mobile:
+
+* Keep the headline readable.
+* Prevent important text from being covered by the image crop.
+* Place the CTAs vertically or side by side when space permits.
+* Optimize the hero height for smaller screens.
+
+---
+
+## 7. TRUST AND INTRODUCTION STRIP
+
+Directly beneath the hero, create a compact horizontal strip featuring:
+
+"TRAIN WITH PURPOSE"
+"MOVE WITH CONFIDENCE"
+"GET STRONGER EVERY DAY"
+
+Use minimal typography, thin borders, and the accent color for selected details.
+
+On mobile, allow the strip to wrap or scroll horizontally without breaking the layout.
+
+Do not invent statistics or claim that the gym has thousands of members.
+
+---
+
+## 8. ABOUT THE GYM
+
+Section eyebrow:
+"MORE THAN A WORKOUT"
+
+Heading:
+"BUILT FOR YOUR STRONGEST SELF."
+
+Description:
+
+"Whether you're stepping into a gym for the first time or working toward your next personal best, IRON CULT FITNESS gives you a space to train with purpose. Our approach combines quality equipment, structured training, and an environment that keeps you moving forward."
+
+Create a two-column layout:
+
+* One side with a large gym photograph.
+* The other with text and three feature blocks.
+
+Feature blocks:
+
+01 — TRAIN WITH PURPOSE
+Structured workouts designed around your fitness goals.
+
+02 — FIND YOUR COMMUNITY
+A welcoming environment for beginners and experienced athletes.
+
+03 — PROGRESS WITH CONFIDENCE
+Training support to help you build consistency and improve your technique.
+
+Include a "DISCOVER OUR APPROACH" button linking to the About page.
+
+Do not invent medical claims or guarantee particular body transformations.
+
+---
+
+## 9. FITNESS PROGRAMS
+
+Create an attractive programs section with six program cards.
+
+Each card must contain:
+
+* A realistic photograph.
+* Program title.
+* Short description.
+* Suitable audience.
+* A "LEARN MORE" link.
+* A subtle image hover effect.
+
+Programs:
+
+### Strength Training
+
+Build strength, improve technique, and progress with structured resistance training.
+
+### Muscle Building
+
+Train consistently with a focus on progressive overload, exercise technique, and recovery.
+
+### Fat-Loss Training
+
+Combine structured workouts and sustainable exercise habits to support body-composition goals.
+
+Do not promise guaranteed fat loss.
+
+### Personal Training
+
+Receive individualized coaching, exercise guidance, and progress reviews.
+
+### Functional Fitness
+
+Improve movement, coordination, conditioning, and practical strength.
+
+### Beginner Fitness
+
+Learn fundamental exercises, understand gym equipment, and build confidence at your own pace.
+
+Each program card must link to a detailed program page or a dedicated modal with:
+
+* Program overview.
+* Intended audience.
+* What a session involves.
+* Example weekly structure.
+* Frequently asked questions.
+* "BOOK A FREE TRIAL" CTA.
+
+Make the experience interactive rather than decorative.
+
+---
+
+## 10. TRAINER PROFILES
+
+Create a professional trainer section with three demonstration profiles.
+
+Clearly label all trainers and credentials as fictional sample content.
+
+Trainer 1:
+Name: Arjun Mehta.
+Role: Strength & Conditioning Coach.
+Experience: 6 years.
+Specialties: Strength training, exercise technique, progressive programming.
+
+Trainer 2:
+Name: Priya Sharma.
+Role: Personal Fitness Coach.
+Experience: 4 years.
+Specialties: Beginner fitness, training consistency, general conditioning.
+
+Trainer 3:
+Name: Rohan Verma.
+Role: Functional Training Coach.
+Experience: 5 years.
+Specialties: Functional movement, conditioning, mobility-focused exercise.
+
+Each profile should include:
+
+* Portrait photograph.
+* Name.
+* Role.
+* Specialties.
+* Experience.
+* Brief biography.
+* "VIEW PROFILE" button.
+
+Trainer profile pages should contain a detailed introduction, coaching approach, specialties, and a booking CTA.
+
+Do not invent professional certifications. Only display verified credentials if real information is later provided.
+
+Add subtle image zoom on hover and elegant transitions.
+
+---
+
+## 11. MEMBERSHIP PLANS
+
+Create three premium membership cards.
+
+Make pricing transparent and easy to compare.
+
+Use these fictional demonstration prices:
+
+### STARTER
+
+₹999 / month
+
+Includes:
+
+* Standard gym access.
+* Access to strength-training equipment.
+* General workout orientation.
+* Locker access subject to availability.
+
+CTA: "CHOOSE STARTER"
+
+### TRANSFORM
+
+₹1,799 / month
+
+Includes:
+
+* Gym access.
+* Strength and cardio equipment.
+* Fitness assessment.
+* Group training sessions where available.
+* Monthly progress review.
+
+CTA: "CHOOSE TRANSFORM"
+
+### ELITE
+
+₹2,999 / month
+
+Includes:
+
+* Gym access.
+* Personal-training consultation.
+* Structured training guidance.
+* Priority booking for eligible sessions.
+* Monthly progress review.
+
+CTA: "CHOOSE ELITE"
+
+Label the middle plan "MOST POPULAR."
+
+Display a short disclaimer:
+"Demo pricing for illustrative purposes only. Actual prices and inclusions must be confirmed by the gym."
+
+Do not imply that any plan includes services that the business has not confirmed.
+
+Include a comparison table below the cards.
+
+Add a monthly/annual pricing toggle, with a clearly disclosed illustrative annual discount of 15%.
+
+The toggle must update the displayed prices correctly.
+
+For example, the annual equivalent should be calculated using the monthly price multiplied by 12 and then discounted by 15%.
+
+Show the annual total or clearly label the monthly equivalent so visitors cannot confuse the two.
+
+Include a small FAQ section:
+
+* Can I upgrade my membership?
+* Can beginners join?
+* Is personal training included?
+* Can I visit before purchasing?
+* What is the cancellation policy?
+
+Use honest placeholder policy text rather than inventing binding business terms.
+
+All membership CTAs must open a plan-specific enquiry or trial-booking form.
+
+Do not process real payments in this demo.
+
+---
+
+## 12. FREE TRIAL BOOKING SYSTEM
+
+Build a complete, polished booking interface.
+
+When visitors click "BOOK A FREE TRIAL," open a modal or dedicated booking page.
+
+Required fields:
+
+* Full name.
+* Mobile number.
+* Email address, optional.
+* Preferred date.
+* Preferred time slot.
+* Fitness goal.
+* Preferred program.
+* Preferred language.
+* Additional message, optional.
+* Consent checkbox for being contacted about the enquiry.
+
+Fitness goal options:
+
+* Build muscle.
+* Lose body fat.
+* Improve general fitness.
+* Increase strength.
+* Improve conditioning.
+* Get started as a beginner.
+* Other.
+
+Time slot options should be configurable.
+
+Validate all required fields.
+
+Mobile number validation should accommodate Indian phone numbers, including an optional +91 prefix.
+
+Prevent submission when required fields are invalid.
+
+Display useful inline error messages.
+
+After a successful demonstration submission:
+
+* Show a polished confirmation screen.
+* Display the selected date and time.
+* Display the selected program.
+* Explain that the request has been recorded for demonstration purposes.
+* Provide a WhatsApp follow-up button.
+
+Important technical requirements:
+
+If no backend exists, implement a clearly labeled demo submission flow.
+
+Do not falsely claim that a real appointment has been booked.
+
+Do not expose private API keys or credentials in frontend code.
+
+Structure the form so a real backend can be connected later.
+
+For production use, actual booking confirmation must depend on successful backend processing.
+
+---
+
+## 13. WHATSAPP INTEGRATION
+
+Add a floating WhatsApp button in the lower-right corner.
+
+Use the demonstration phone number supplied in the brand identity.
+
+When clicked, open WhatsApp with a prefilled message such as:
+
+"Hi IRON CULT FITNESS! I'm interested in your membership plans and would like to know more."
+
+Support contextual messages from:
+
+* Membership cards.
+* Trainer profiles.
+* Program pages.
+* Trial-booking confirmation.
+
+For example, clicking "ENQUIRE ABOUT ELITE" should create a message mentioning the Elite membership.
+
+Encode message text correctly in the WhatsApp link.
+
+Use an appropriate external-link behavior and ensure the destination works on mobile and desktop.
+
+The demo phone number is fictional. Clearly document that it must be replaced before launch.
+
+Add an optional sticky mobile bottom bar with:
+"CALL NOW" and "FREE TRIAL"
+
+Ensure it does not obscure important page content.
+
+---
+
+## 14. MULTILINGUAL LANGUAGE SWITCHER
+
+This is a core feature and must work across the entire website.
+
+Provide a language selector in the desktop header and mobile menu.
+
+Supported languages:
+
+1. English.
+2. Hindi — हिन्दी.
+3. Hinglish — Romanized Hindi.
+4. Rajasthani — optional, only if accurate translations can be provided.
+
+Default language: English.
+
+Hindi example:
+
+English:
+"BUILD STRENGTH. BECOME UNSTOPPABLE."
+
+Hindi:
+"ताकत बनाएं। अपनी सीमाओं से आगे बढ़ें।"
+
+Hinglish:
+"Strength banao. Apni limits se aage badho."
+
+English CTA:
+"BOOK A FREE TRIAL"
+
+Hindi CTA:
+"मुफ़्त ट्रायल बुक करें"
+
+Hinglish CTA:
+"Free trial book karein"
+
+Translate the following throughout the interface:
+
+* Navigation.
+* Hero heading and description.
+* Buttons.
+* About section.
+* Program names and descriptions.
+* Trainer section.
+* Membership plans.
+* Form labels and validation messages.
+* Booking confirmation.
+* FAQs.
+* Footer.
+* Contact information labels.
+* Accessibility labels.
+* Cookie or privacy notices, if included.
+
+Do not translate personal names, brand names, phone numbers, or email addresses.
+
+Implementation requirements:
+
+Use a proper internationalization system with translation dictionaries.
+
+Do not implement translation by replacing isolated words throughout the DOM.
+
+Changing language must update the entire interface immediately without requiring a page reload.
+
+Persist the selected language using localStorage.
+
+On subsequent visits, restore the previously selected language when possible.
+
+Update the HTML lang attribute whenever the language changes.
+
+Use appropriate fonts and typography for Devanagari text.
+
+Ensure Hindi text does not overflow buttons, cards, or navigation.
+
+Use correct translations rather than simply changing a few headings.
+
+For Rajasthani, only enable the selector if complete, reviewed translations are available. Otherwise, present it as a future language option or omit it.
+
+Include a clear language name in each menu option.
+
+Make the switcher keyboard-accessible.
+
+The language selector must work on desktop and mobile.
+
+---
+
+## 15. GYM GALLERY
+
+Create a visually rich gallery using a responsive masonry or editorial grid.
+
+Include images representing:
+
+* Main gym floor.
+* Free weights.
+* Squat racks.
+* Cardio area.
+* Functional training area.
+* Personal training.
+* Workout atmosphere.
+* Equipment details.
+
+Interactions:
+
+* Clicking an image opens a lightbox.
+* Support next and previous navigation.
+* Support keyboard navigation.
+* Close the lightbox using Escape.
+* Close when the user clicks the designated backdrop.
+* Display accessible image descriptions.
+
+Use a consistent visual style.
+
+Add a "VIEW ALL PHOTOS" button.
+
+All images must load correctly and have sensible alt text.
+
+---
+
+## 16. TESTIMONIALS AND SOCIAL PROOF
+
+Create a clean testimonial section with three clearly labeled sample testimonials.
+
+Because this is a demonstration website, never present fictional testimonials as genuine customer reviews.
+
+Use an explicit label:
+"ILLUSTRATIVE DEMO TESTIMONIALS — REPLACE WITH VERIFIED CUSTOMER FEEDBACK."
+
+Use fictional sample names and clearly identified sample content.
+
+Example:
+
+"I was nervous about joining a gym, but having a clear routine made starting much easier."
+
+"Training consistently helped me understand the importance of proper technique and recovery."
+
+"The gym layout and structured approach make it easier to stay focused on my goals."
+
+Do not invent Google review counts, ratings, awards, or customer success statistics.
+
+Build a reusable testimonial component so genuine testimonials can replace the sample content later.
+
+---
+
+## 17. RESULTS AND PROGRESS SECTION
+
+Create an educational section explaining how the gym approaches progress.
+
+Headline:
+"PROGRESS IS BUILT, NOT WISHED FOR."
+
+Show a three-step process:
+
+01 — SET YOUR GOAL
+Understand your priorities and choose an appropriate starting point.
+
+02 — TRAIN WITH A PLAN
+Build consistency with structured workouts and appropriate progression.
+
+03 — REVIEW AND ADJUST
+Track your routine and make adjustments as your goals and abilities change.
+
+Use photography and subtle scroll animations.
+
+Do not use fake before-and-after body photographs.
+
+Do not promise guaranteed physical transformations or specific results within a fixed number of days.
+
+---
+
+## 18. FAQ SECTION
+
+Build an accessible accordion component.
+
+Questions:
+
+1. Is this gym suitable for beginners?
+2. What should I bring for my first workout?
+3. Do you offer personal training?
+4. Which membership is right for me?
+5. Can I book a free trial?
+6. Are group training sessions available?
+7. How can I contact the gym?
+8. What are the opening hours?
+
+Provide useful, realistic sample answers.
+
+Where actual policies or availability are unknown, clearly indicate that the gym owner should confirm the information before launch.
+
+Only one accordion item needs to remain open at a time.
+
+Support keyboard interaction and screen readers.
+
+---
+
+## 19. CONTACT AND LOCATION SECTION
+
+Create a premium contact section containing:
+
+Business name: IRON CULT FITNESS.
+
+Address: 21 Fitness Avenue, Vaishali Nagar, Jaipur, Rajasthan 302021.
+
+Phone: +91 98765 43210.
+
+Email: [hello@ironcultdemo.example](mailto:hello@ironcultdemo.example).
+
+Opening hours:
+Monday–Saturday: 5:00 AM–10:00 PM.
+Sunday: 7:00 AM–12:00 PM.
+
+Include:
+
+* Clickable phone number.
+* Clickable email address.
+* WhatsApp CTA.
+* Directions button.
+* Contact enquiry form.
+* Location map placeholder or properly configured map embed.
+
+Important: The address is fictional. Do not falsely represent it as a verified business location.
+
+Use a clearly labeled demo location component.
+
+For a production website, replace it with the gym's verified address and map location.
+
+The contact form should validate its fields and provide a successful demo confirmation without claiming an email was sent.
+
+---
+
+## 20. FOOTER DESIGN
+
+Create a sophisticated, dark footer.
+
+Include:
+
+Brand logo.
+
+Short brand description.
+
+Quick navigation links.
+
+Programs.
+
+Memberships.
+
+Contact information.
+
+Opening hours.
+
+Language selector.
+
+Social media links with editable destinations.
+
+Privacy Policy.
+
+Terms and Conditions.
+
+Copyright notice.
+
+Demo disclaimer.
+
+Example disclaimer:
+"This is a demonstration website. Business details, pricing, profiles, and testimonials are illustrative and must be verified before commercial use."
+
+Do not invent real social media profiles.
+
+Do not make social media icons link to unrelated websites.
+
+Use editable placeholders for social profile destinations.
+
+All footer links must function correctly.
+
+---
+
+## 21. ADDITIONAL PREMIUM FEATURES
+
+Implement the following features where they improve usability.
+
+### A. Scroll Progress Indicator
+
+A thin indicator at the top of the browser showing page-scroll progress.
+
+### B. Back-to-Top Button
+
+Display after the user scrolls down.
+
+### C. Smooth Animations
+
+Use subtle fade-in, reveal, and image transitions.
+
+Respect the user's reduced-motion preference.
+
+Avoid excessive movement or animation delays.
+
+### D. Button Microinteractions
+
+Buttons should have:
+
+* Hover states.
+* Focus states.
+* Pressed states.
+* Clear loading states where applicable.
+* Disabled states when necessary.
+
+### E. Floating WhatsApp Button
+
+Use an accessible label and ensure it does not obstruct important content.
+
+### F. Membership Price Toggle
+
+Switch between monthly and annual billing, updating all relevant prices and labels.
+
+### G. Booking Modal
+
+Implement proper focus management, Escape-to-close behavior, and mobile-friendly scrolling.
+
+### H. Responsive Navigation
+
+The mobile menu must open, close, and navigate reliably.
+
+### I. Cookie Notice
+
+If analytics or nonessential cookies are introduced, implement an appropriate consent mechanism.
+
+Do not add tracking scripts unnecessarily.
+
+### J. Search Engine Metadata
+
+Set:
+
+* Page title.
+* Meta description.
+* Favicon.
+* Open Graph metadata.
+* Social sharing image.
+* Canonical URL placeholder for production.
+
+Use location-aware SEO content without making unsupported claims.
+
+### K. Local Business Structured Data
+
+Provide an editable LocalBusiness or SportsActivityLocation JSON-LD template.
+
+Do not publish fictional address, phone, opening hours, or business details as verified facts.
+
+Make the structured data configurable before production deployment.
+
+### L. Loading and Error States
+
+All interactive components should handle loading, errors, and empty states gracefully.
+
+### M. Accessibility
+
+Follow WCAG 2.2 AA principles where practical.
+
+Provide:
+
+* Semantic HTML.
+* Keyboard navigation.
+* Visible focus indicators.
+* Sufficient color contrast.
+* Accessible forms.
+* Descriptive image alt text.
+* Accessible modal behavior.
+* Proper heading hierarchy.
+* Screen-reader-friendly language selection.
+
+---
+
+## 22. REQUIRED WEBSITE PAGES
+
+Create the following pages:
+
+1. Home.
+2. About Us.
+3. Programs.
+4. Individual Program Details.
+5. Trainers.
+6. Individual Trainer Profiles.
+7. Membership Plans.
+8. Gallery.
+9. Contact.
+10. Privacy Policy.
+11. Terms and Conditions.
+
+Use a consistent design system across all pages.
+
+If the implementation uses a single-page application, create genuine route-based pages where appropriate rather than simply repeating the same content.
+
+Provide a clear 404 page with a link back to Home.
+
+Make all internal navigation functional.
+
+---
+
+## 23. TECHNICAL REQUIREMENTS
+
+Use a modern, maintainable frontend architecture.
+
+Preferred stack:
+
+* React.
+* TypeScript.
+* Tailwind CSS.
+* A suitable routing library.
+* Lucide icons or another consistent icon library.
+* An appropriate internationalization implementation.
+
+Use the builder's supported framework if it differs from the preferred stack.
+
+Technical rules:
+
+1. Create reusable components.
+2. Separate content data from UI components.
+3. Keep translations in dedicated dictionaries.
+4. Keep membership prices configurable.
+5. Keep business information in a centralized configuration file.
+6. Use proper semantic HTML.
+7. Avoid duplicated components.
+8. Avoid unnecessary dependencies.
+9. Use responsive image sizing.
+10. Lazy-load below-the-fold imagery.
+11. Provide image fallbacks.
+12. Prevent horizontal overflow.
+13. Handle missing data gracefully.
+14. Avoid console errors.
+15. Avoid broken links.
+16. Keep secrets out of frontend code.
+17. Do not claim that backend functionality exists when it does not.
+
+Suggested reusable components:
+
+* Header.
+* MobileNavigation.
+* LanguageSwitcher.
+* HeroSection.
+* FeatureStrip.
+* AboutSection.
+* ProgramCard.
+* TrainerCard.
+* MembershipCard.
+* PricingToggle.
+* BookingModal.
+* ContactForm.
+* GalleryGrid.
+* GalleryLightbox.
+* FAQAccordion.
+* WhatsAppButton.
+* Footer.
+* DemoDisclaimer.
+
+Suggested configuration:
+
+* Business details.
+* Brand colors.
+* Membership plans.
+* Programs.
+* Trainer profiles.
+* Translation dictionaries.
+* Opening hours.
+* Social media links.
+* Booking settings.
+
+---
+
+## 24. BACKEND AND FUNCTIONALITY BOUNDARIES
+
+This is initially a sales demonstration.
+
+Do not require a backend just to render the website.
+
+Implement working frontend interactions and a clearly identified demo booking flow.
+
+However, structure the project so it can later support:
+
+* Real booking submissions.
+* Email notifications.
+* WhatsApp enquiries.
+* A database for leads.
+* A content management system.
+* Real membership payments.
+* Analytics.
+* An admin dashboard.
+
+Do not build a fake payment success screen.
+
+Do not claim to send emails, store leads permanently, or create confirmed bookings unless those operations actually succeed.
+
+If a real backend is added, validate data on the server and protect sensitive information.
+
+Keep API keys and credentials in secure server-side environment variables.
+
+---
+
+## 25. CONVERSION OPTIMIZATION
+
+Design the website to encourage visitors to take action.
+
+Primary conversion:
+Book a free trial.
+
+Secondary conversions:
+
+* WhatsApp enquiry.
+* Membership enquiry.
+* Trainer consultation.
+* Phone call.
+* Contact form submission.
+
+Place clear calls to action in:
+
+* Header.
+* Hero.
+* Programs section.
+* Trainer section.
+* Membership section.
+* FAQ section.
+* Footer.
+
+Use persuasive but honest copy.
+
+Avoid aggressive popups, fake urgency, countdown timers, and misleading scarcity.
+
+Do not overwhelm visitors with too many competing CTAs.
+
+---
+
+## 26. PERFORMANCE AND RESPONSIVENESS
+
+The website must work across:
+
+* Large desktop monitors.
+* Standard laptops.
+* Tablets.
+* Android phones.
+* iPhones.
+
+Requirements:
+
+* No horizontal scrolling at common viewport sizes.
+* No clipped headings.
+* No overlapping buttons.
+* No broken mobile navigation.
+* No oversized images that unnecessarily delay loading.
+* No layout shifts caused by missing image dimensions.
+* No unreadable small text.
+* No inaccessible form controls.
+
+Prefer optimized WebP or AVIF assets when available.
+
+Use appropriate image dimensions and responsive image techniques.
+
+Avoid autoplay audio.
+
+If background video is used, provide a static fallback and respect reduced-motion and data-saving preferences.
+
+---
+
+## 27. FINAL TESTING CHECKLIST
+
+Before considering the project complete, test the following:
+
+[ ] Home page renders correctly.
+[ ] Every navigation item works.
+[ ] Desktop navigation works.
+[ ] Mobile navigation works.
+[ ] English language works.
+[ ] Hindi language works.
+[ ] Hinglish language works.
+[ ] Language selection persists after refresh.
+[ ] All visible text updates when changing language.
+[ ] Hindi typography displays correctly.
+[ ] All images load.
+[ ] Membership pricing toggle calculates correctly.
+[ ] Every membership CTA opens the correct enquiry flow.
+[ ] Booking form validates required fields.
+[ ] Invalid phone numbers produce clear errors.
+[ ] Booking confirmation displays the submitted information.
+[ ] Demo submissions are not misrepresented as real bookings.
+[ ] WhatsApp messages contain the correct contextual text.
+[ ] Gallery lightbox opens and closes correctly.
+[ ] Gallery keyboard navigation works.
+[ ] FAQ accordions work.
+[ ] Contact form validates correctly.
+[ ] All external links are appropriate.
+[ ] All internal routes work.
+[ ] The 404 page works.
+[ ] Footer links work.
+[ ] Responsive layouts work.
+[ ] Keyboard focus is visible.
+[ ] Reduced-motion preferences are respected.
+[ ] No horizontal overflow occurs.
+[ ] No broken links or console errors remain.
+[ ] Fictional business details are clearly identified.
+[ ] No fake reviews, awards, or success claims are presented as real.
+
+Fix all identified issues before declaring the website complete.
+
+---
+
+## 28. FINAL DESIGN STANDARD
+
+The finished result should look like a premium website a professional agency could present to a gym owner.
+
+The first screen should immediately communicate quality.
+
+The rest of the website should maintain that quality consistently.
+
+Use realistic photography, confident typography, restrained accent colors, excellent spacing, and purposeful interactions.
+
+Do not sacrifice usability for visual effects.
+
+Do not produce a basic landing page with a few generic cards.
+
+Build the complete website.
+
+If a requested integration requires external credentials, implement the interface and explain what is needed to activate it rather than pretending the integration works.
+
+Start by building the complete design system and homepage, then implement the remaining pages and interactions.
+
+Finally, run through the testing checklist and fix any incomplete functionality.
+
+The finished product must be polished enough to demonstrate to potential gym clients as a premium website concept.
